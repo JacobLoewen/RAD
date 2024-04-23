@@ -13,3 +13,7 @@ This device will alert the patient when it passes by an activity and will presen
 **Notes**: Remembering new things is nearly impossible for someone with dementia, even in the early stages of the disease. The second feature to this device uses the LightBlue application to connect to the ESP32
 via bluetooth. The patient can write their message in 15 letters per line for two lines on the LightBlue app and it will store that message for the patient to read at any time.
 
+## Video Demonstration
+
+YouTube Video to a demonstration of the device being used: https://youtu.be/6mYjUuerubk
+
